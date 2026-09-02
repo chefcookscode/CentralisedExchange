@@ -1,7 +1,12 @@
 function App() {
-  return <div> 
-    Hi there!
-  </div>
+  return (
+    <div>
+      <button onClick = {() => } >
+        Sign in with Solana 
+      </button>
+    
+    </div>
+  );
 }
 
-export default App
+export default App;
