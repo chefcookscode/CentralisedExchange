@@ -1,4 +1,4 @@
-# Turborepo starter
+# Turborepo starter (nothing todo w/ project)
 
 This Turborepo starter is maintained by the Turborepo core team.
 
